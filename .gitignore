@@ -1,0 +1,12 @@
+# Secrets — never commit
+.env
+
+# WhatsApp session credentials. Committing these would let anyone
+# hijack the linked device.
+auth_info/
+
+# Runtime output
+notes.md
+
+node_modules/
+npm-debug.log*
