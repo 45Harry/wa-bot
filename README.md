@@ -49,7 +49,7 @@ cp .env.example .env
 
 ```env
 # OpenCode Zen (OpenAI-compatible LLM gateway)
-OPENCODE_API_KEY=sk-2WKBqVvRhDE5zuqugLxQ2cAegthMep4Kj62Y5gq7R8rN96Me2uWo22jay6HqX3pF
+OPENCODE_API_KEY=<your Zen API key, starts with "sk-">
 OPENCODE_MODEL=claude-sonnet-4-5
 
 # WhatsApp — your number in FULL international form, digits only, no + or spaces.
